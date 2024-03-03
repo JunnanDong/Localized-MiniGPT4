@@ -40,4 +40,10 @@ Thanks to the whole community including authors of Llama, Vicuna, MiniGPT-4, and
 
 If you find this implementation helpful, please star and raise issues for further improvements together.
 
-
+## Citation
+`@article{dong2024modality,
+  title={Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering},
+  author={Dong, Junnan and Zhang, Qinggang and Zhou, Huachi and Zha, Daochen and Zheng, Pai and Huang, Xiao},
+  journal={arXiv preprint arXiv:2402.12728},
+  year={2024}
+}`
